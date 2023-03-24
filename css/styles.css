@@ -253,20 +253,7 @@ header {
   padding-bottom: 8px;
   padding-top: 8px;
 }
-.section-company {
-  display: block;
-  text-align: center;
-}
-.customers {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
-  padding-top: 72px;
-  padding-bottom: 120px;
-}
-.customers-title {
-  padding-top: 116px;
-}
+
 /* .........Footer....... */
 .footer {
   background-color: var(--primary-text-color-blue);
