@@ -272,6 +272,7 @@ header {
   letter-spacing: 0.03em;
   text-decoration: none;
   margin-bottom: 16px;
+  display: block;
 }
 
 .logo-studio-footer {
@@ -296,8 +297,8 @@ header {
 }
 /* //! ============PORTFOLIO =======?// */
 .section-portfolio{
-  margin-bottom: 120px;
-  margin-top: 96px;
+  padding-bottom: 120px;
+  padding-top: 96px;
 }
 .container-list {
   display: flex;
